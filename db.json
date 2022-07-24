@@ -1,0 +1,505 @@
+{
+    "cars": [
+        {
+            "id": "1",
+            "name": "볼트EV",
+            "description": "SMART CROSSOVER BOLT EV",
+            "imageUrl": "https://image.socar.kr/car_image/car074.png",
+            "category": "EV",
+            "zones": [
+                "13",
+                "16",
+                "21",
+                "26"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "G80",
+            "description": "G80 SPORT",
+            "imageUrl": "https://image.socar.kr/car_image/car068.png",
+            "category": "SEMI_MID_SEDAN",
+            "zones": [
+                "13",
+                "14",
+                "18",
+                "19"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "스팅어",
+            "description": "스팅어의 시간은 거꾸로 간다.",
+            "imageUrl": "https://image.socar.kr/car_image/car057.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "14",
+                "17",
+                "21",
+                "24"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "벤츠 C200",
+            "description": "",
+            "imageUrl": "https://image.socar.kr/car_image/car071.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "11",
+                "21",
+                "22",
+                "25"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "미니클럽맨",
+            "description": "개성과 성능, 혜택 모두 남다른 MINI의 라인업을 지금 만나보세요. ",
+            "imageUrl": "https://image.socar.kr/car_image/car070.png",
+            "category": "COMPACT",
+            "zones": [
+                "14",
+                "15",
+                "19",
+                "22"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "지프 레니게이드",
+            "description": "모든 SUV의 시작 Jeep",
+            "imageUrl": "https://image.socar.kr/car_image/car073.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "15",
+                "23",
+                "24",
+                "26"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "싼타페",
+            "description": "자연을 넘어 도시로 온다. 퓨전카. 도시의 매혹. 도시를 즐겨라.",
+            "imageUrl": "https://image.socar.kr/car_image/car072.png",
+            "category": "MID_SUV",
+            "zones": [
+                "13",
+                "15",
+                "18",
+                "21"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "쏘렌토",
+            "description": "돌아오라 쏘렌토로",
+            "imageUrl": "https://image.socar.kr/car_image/car079.png",
+            "category": "MID_SUV",
+            "zones": [
+                "12",
+                "15",
+                "16",
+                "25"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "스포티지",
+            "description": "Never Mind, Action!",
+            "imageUrl": "https://image.socar.kr/car_image/car024.png",
+            "category": "SEMI_MID_SUV",
+            "zones": [
+                "15",
+                "19",
+                "23",
+                "25"
+            ]
+        },
+        {
+            "id": "10",
+            "name": "투싼",
+            "description": "자동차에서 삶의 동반자로",
+            "imageUrl": "https://image.socar.kr/car_image/car050.png",
+            "category": "SEMI_MID_SUV",
+            "zones": [
+                "11",
+                "18",
+                "20",
+                "22"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "아이오닉EV",
+            "description": "무엇이든 가능한 세상",
+            "imageUrl": "https://image.socar.kr/car_image/car046.png",
+            "category": "EV",
+            "zones": [
+                "13",
+                "20",
+                "21",
+                "24"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "코나",
+            "description": "누가? KONA! SUV의 새로운 발견 유쾌한 퍼포먼스",
+            "imageUrl": "https://image.socar.kr/car_image/car060.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "14",
+                "18",
+                "19",
+                "22"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "스토닉",
+            "description": "YESUV! STONIC",
+            "imageUrl": "https://image.socar.kr/car_image/car065.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "11",
+                "14",
+                "24",
+                "25"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "QM3",
+            "description": "RENAULT-SAMSUNG Quest Motoring series 3",
+            "imageUrl": "https://image.socar.kr/car_image/car012.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "14",
+                "17",
+                "20",
+                "21"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "티볼리",
+            "description": "My 1st SUV, TIVOL",
+            "imageUrl": "https://image.socar.kr/car_image/car076.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "16",
+                "17",
+                "19",
+                "22"
+            ]
+        },
+        {
+            "id": "16",
+            "name": "스포티지 더볼드",
+            "description": "Never Mind, Action!",
+            "imageUrl": "https://image.socar.kr/car_image/car082.png",
+            "category": "SEMI_MID_SUV",
+            "zones": [
+                "16",
+                "17",
+                "21",
+                "22"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "쏘나타DN8",
+            "description": "Hello SONAT",
+            "imageUrl": "https://image.socar.kr/car_image/car096.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "11",
+                "15",
+                "16",
+                "21"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "셀토스",
+            "description": "Amazing Compact",
+            "imageUrl": "https://image.socar.kr/car_image/car136.png",
+            "category": "COMPACT_SUV",
+            "zones": [
+                "12",
+                "14",
+                "18",
+                "24"
+            ]
+        },
+        {
+            "id": "19",
+            "name": "올뉴모닝",
+            "description": "Smart Compact.",
+            "imageUrl": "https://image.socar.kr/car_image/car056.png",
+            "category": "COMPACT",
+            "zones": [
+                "15",
+                "18",
+                "23",
+                "24"
+            ]
+        },
+        {
+            "id": "20",
+            "name": "모닝 어반",
+            "description": "Smart Compact.",
+            "imageUrl": "https://image.socar.kr/car_image/car150.png",
+            "category": "COMPACT",
+            "zones": [
+                "14",
+                "16",
+                "20",
+                "26"
+            ]
+        },
+        {
+            "id": "21",
+            "name": "올뉴K3",
+            "description": "나만의 완생을 향해, Keep Your Way The new K3",
+            "imageUrl": "https://image.socar.kr/car_image/car066.png",
+            "category": "SEMI_MID_SEDAN",
+            "zones": [
+                "12",
+                "17",
+                "20",
+                "25"
+            ]
+        },
+        {
+            "id": "22",
+            "name": "더뉴아반떼",
+            "description": "The new basics. 세상, 달라졌다.",
+            "imageUrl": "https://image.socar.kr/car_image/car086.png",
+            "category": "SEMI_MID_SEDAN",
+            "zones": [
+                "12",
+                "21",
+                "23",
+                "24"
+            ]
+        },
+        {
+            "id": "23",
+            "name": "올뉴아반떼",
+            "description": "SUPER NORMAL",
+            "imageUrl": "https://image.socar.kr/car_image/car144.png",
+            "category": "SEMI_MID_SEDAN",
+            "zones": [
+                "11",
+                "12",
+                "13",
+                "20"
+            ]
+        },
+        {
+            "id": "24",
+            "name": "레이",
+            "description": "Open Your Life.",
+            "imageUrl": "https://image.socar.kr/car_image/car001.png",
+            "category": "COMPACT",
+            "zones": [
+                "13",
+                "15",
+                "18",
+                "23"
+            ]
+        },
+        {
+            "id": "25",
+            "name": "2018 말리부",
+            "description": "YOUR NEXT LEVEL",
+            "imageUrl": "https://image.socar.kr/car_image/car080.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "12",
+                "16",
+                "20",
+                "23"
+            ]
+        },
+        {
+            "id": "26",
+            "name": "쏘나타 뉴라이즈",
+            "description": "Hello SONAT",
+            "imageUrl": "https://image.socar.kr/car_image/car077.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "13",
+                "16",
+                "23",
+                "25"
+            ]
+        },
+        {
+            "id": "27",
+            "name": "SM6",
+            "description": "RENAULT-SAMSUNG Samsung Motors Model 6",
+            "imageUrl": "https://image.socar.kr/car_image/car078.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "12",
+                "16",
+                "17",
+                "24"
+            ]
+        },
+        {
+            "id": "28",
+            "name": "2021 K5",
+            "description": "FROM THE FUTURE TO THE WORLD BEST",
+            "imageUrl": "https://image.socar.kr/car_image/car162.png",
+            "category": "MID_SEDAN",
+            "zones": [
+                "11",
+                "15",
+                "18",
+                "23"
+            ]
+        }
+    ],
+    "zones": [
+        {
+            "id": "11",
+            "name": "서울숲역 1번출구",
+            "alias": "COW&6DOG 앞 주차장",
+            "location": {
+                "lat": 37.543095,
+                "lng": 127.046822
+            }
+        },
+        {
+            "id": "12",
+            "name": "헤이그라운드",
+            "alias": "루트임팩트(기계식)",
+            "location": {
+                "lat": 37.544357,
+                "lng": 127.047704
+            }
+        },
+        {
+            "id": "13",
+            "name": "서울숲역 1번출구(크레비스)",
+            "alias": "노벨빌딩 주차장",
+            "location": {
+                "lat": 37.545349,
+                "lng": 127.045639
+            }
+        },
+        {
+            "id": "14",
+            "name": "서울숲역 1번출구",
+            "alias": "얼리브홈 주차장",
+            "location": {
+                "lat": 37.542367,
+                "lng": 127.047417
+            }
+        },
+        {
+            "id": "15",
+            "name": "대림로즈빌아파트",
+            "alias": "대림로즈빌아파트 102동 앞",
+            "location": {
+                "lat": 37.542031,
+                "lng": 127.045198
+            }
+        },
+        {
+            "id": "16",
+            "name": "뚝섬역 5번출구",
+            "alias": "서울숲A타워",
+            "location": {
+                "lat": 37.546228,
+                "lng": 127.048726
+            }
+        },
+        {
+            "id": "17",
+            "name": "뚝섬역 4번출구",
+            "alias": "서울숲IT밸리",
+            "location": {
+                "lat": 37.547119,
+                "lng": 127.050217
+            }
+        },
+        {
+            "id": "18",
+            "name": "뚝섬역 2번출구",
+            "alias": "쌍용아파트 103동",
+            "location": {
+                "lat": 37.548939,
+                "lng": 127.047417
+            }
+        },
+        {
+            "id": "19",
+            "name": "뚝섬역 4번출구",
+            "alias": "뚝섬리버빌",
+            "location": {
+                "lat": 37.549329,
+                "lng": 127.050001
+            }
+        },
+        {
+            "id": "20",
+            "name": "이마트 성수점",
+            "alias": "이마트 성수점 주차장",
+            "location": {
+                "lat": 37.540173,
+                "lng": 127.05275
+            }
+        },
+        {
+            "id": "21",
+            "name": "경수중학교 앞",
+            "alias": "우진주차장",
+            "location": {
+                "lat": 37.539162,
+                "lng": 127.055977
+            }
+        },
+        {
+            "id": "22",
+            "name": "응봉역 1번출구",
+            "alias": "응봉동리버그린동아아파트",
+            "location": {
+                "lat": 37.553453,
+                "lng": 127.037538
+            }
+        },
+        {
+            "id": "23",
+            "name": "영동대교 북단",
+            "alias": "SD타워 주차장",
+            "location": {
+                "lat": 37.537817,
+                "lng": 127.060298
+            }
+        },
+        {
+            "id": "24",
+            "name": "성동세무서 앞",
+            "alias": "GS파크 신한은행화양점",
+            "location": {
+                "lat": 37.547665,
+                "lng": 127.062698
+            }
+        },
+        {
+            "id": "25",
+            "name": "건대입구역 1번출구",
+            "alias": "청화주차장",
+            "location": {
+                "lat": 37.542362,
+                "lng": 127.065125
+            }
+        }
+    ]
+}

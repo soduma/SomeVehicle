@@ -103,7 +103,8 @@ extension FavoriteViewController: UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         let zone = favoriteZoneList[indexPath.row]
-        delegate?.tapDismissButton(zone: zone)
-        dismiss(animated: true)
+        dismiss(animated: true) {
+            self.delegate?.tapDismissButton(zone: zone)
+        }
     }
 }

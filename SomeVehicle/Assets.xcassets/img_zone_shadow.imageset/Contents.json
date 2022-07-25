@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "img_zone_shadow.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
